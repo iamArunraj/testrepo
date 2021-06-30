@@ -1,4 +1,8 @@
+test1.json
 {
-      "key1":"value1",
-      "key2": [{"key2_1":"value1_1"}]
+  "key1":"value1"
+}
+test2.json
+{
+  "key2":"value2"
 }
